@@ -1,24 +1,24 @@
 {
-  "schemaVersion": 1,
-  "hotfixesFormat": null,
-  "versions": [
-               {
-                "id": "1.1.0",
-                "releasedAt": 1710080520
-               },
-               {
-                "id": "2.0 RC1",
-                "releasedAt": 1710107826,
-                "promotions": {
-                  "updateType": minor
-                  }
-               },
-               {
-                "id": "2.0 RC2",
-                "releasedAt": 1710110329,
-                "promotions": {
-                  "updateType": minor
-                  }
-               }
-  ]
+    "schemaVersion": 1,
+    "hotfixesFormat": null,
+    "versions": [
+        {
+            "id": "1.1.0",
+            "releasedAt": 1710080520
+        },
+        {
+            "id": "2.0 RC1",
+            "releasedAt": 1710107826,
+            "promotions": {
+                "updateType": "minor"
+            }
+        },
+        {
+            "id": "2.0 RC2",
+            "releasedAt": 1710110329,
+            "promotions": {
+                "updateType": "minor"
+            }
+        }
+    ]
 }
