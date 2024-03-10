@@ -1,0 +1,3 @@
+- Added Modpack Update Checker
+- Added branding features
+- Split the modpack into modsets, allowing for more customization.
