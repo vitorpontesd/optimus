@@ -7,8 +7,8 @@
                 "releasedAt": 1710080520
                }
                {
-                "id": "1.2.0",
-                "releasedAt": 1710096500,
+                "id": "2.0 RC1",
+                "releasedAt": 1710107826,
                 "promotions": {
                   "updateType": minor
                 }
