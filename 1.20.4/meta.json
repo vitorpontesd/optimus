@@ -14,11 +14,8 @@
             }
         },
         {
-            "id": "2.0 RC2",
-            "releasedAt": 1710110329,
-            "promotions": {
-                "updateType": "minor"
-            }
+            "id": "2.0",
+            "releasedAt": 1710124305
         }
     ]
 }
