@@ -1,0 +1,9 @@
+Fixed incorrect menu layouts for YACL screens
+Fixed incorrect default settings
+Tidied up the main menu
+Replaced OpenLoader with LoadMyResources
+Fixed the resource pack displayinng incorrect logo
+Added PlasmoVoice support, and the ability to switch between it and Simple Voice Chat
+Updated OptiGUI and Timeless
+Updated the Update Checker menu
+Added Controlling
