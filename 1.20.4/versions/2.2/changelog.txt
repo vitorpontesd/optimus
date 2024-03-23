@@ -1,12 +1,12 @@
-Added [CIT] CustomItemTextures\
-
-Updated the following mods:\
-ChatHeads\
-FabricAPI\
-JourneyMap\
-ModernFix\
-Modpack Update Checker\
-Puzzles Lib\
-Simple Voice Chat\
-Xaero's Minimap\
-Xaero's World Map
+- Added [CIT] CustomItemTextures
+  
+- Updated the following mods:
+  - ChatHeads
+  - FabricAPI
+  - JourneyMap
+  - ModernFix
+  - Modpack Update Checker
+  - Puzzles Lib
+  - Simple Voice Chat
+  - Xaero's Minimap
+  - Xaero's World Map
