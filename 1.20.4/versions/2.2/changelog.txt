@@ -1,0 +1,11 @@
+Added [[CIT] CustomItemTextures](https://modrinth.com/mod/cit)\
+Updated the following mods:\
+ChatHeads\
+FabricAPI\
+JourneyMap\
+ModernFix\
+Modpack Update Checker\
+Puzzles Lib\
+Simple Voice Chat\
+Xaero's Minimap\
+Xaero's World Map\
