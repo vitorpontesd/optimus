@@ -1,0 +1,15 @@
+{
+    "schemaVersion": 1,
+    "hotfixesFormat": null,
+    "versions": [
+        {
+            "id": "2.4",
+            "releasedAt": "",
+            "promotions": {
+                "downloads": {
+                    "modrinth": "https://modrinth.com/modpack/optimus/version/2.4"
+                }
+            }
+        }
+    ]
+}
