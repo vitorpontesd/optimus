@@ -1,0 +1,4 @@
+- Updated mods
+- Added Litematica, Full Brightness Toggle and Configured
+- Readded McMeta
+- Fixed errors in the default settings
